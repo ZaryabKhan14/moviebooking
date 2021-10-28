@@ -262,7 +262,8 @@ $row4 = mysqli_fetch_array($result4);
                                 <li class="d-block"> <span style="background-color: #FF7B36;"></span> 30 Days</li>
                                 <li class="d-block"> <span style="background-color: #E8205E;"></span> 60 Days</li>
                                 <li class="d-block"> <span style="background-color: #3B76EF"></span> 90 Days</li>
-                                <li class="d-block"> <span style="background-color:#00BFBF;"></span> 90+Days</li>
+                                <li class="d-block"> <span style="background-color:#00BFBF;"></span> 90 Days</li>
+                                <li class="d-block"> <span style="background-color:#00BFBF;"></span> 120 Days</li>
                             </div>
                         </div>
                     </div>
